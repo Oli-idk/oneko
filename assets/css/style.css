@@ -26,4 +26,5 @@
 
   body {
     background: url(../images/Background.png);
+    cursor: url("/assets/images/Cursor.png") 16 16, crosshair;
   }
